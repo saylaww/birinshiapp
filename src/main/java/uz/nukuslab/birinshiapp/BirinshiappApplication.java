@@ -11,7 +11,7 @@ public class BirinshiappApplication {
 
     @GetMapping("/")
     public String index(){
-        return "TEST page 111";
+        return "TEST page 222";
     }
 
     public static void main(String[] args) {
